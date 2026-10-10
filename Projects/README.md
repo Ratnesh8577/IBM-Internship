@@ -358,7 +358,6 @@ This internship project demonstrates practical experience in:
 * Statistical Analysis
 * Data Visualization
 * Time-Series Analysis
-* Geospatial Analysis
 * KPI Development
 * Business Intelligence
 * Dashboard Development
