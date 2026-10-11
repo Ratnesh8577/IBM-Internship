@@ -152,7 +152,6 @@ The raw airline dataset was inspected and prepared using **Python, Pandas, and N
 * Missing-value handling
 * Date and time formatting
 * Outlier investigation
-* Feature creation
 * Data validation
 
 ### Feature Engineering
